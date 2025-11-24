@@ -28837,6 +28837,7 @@ class binance extends _abstract_binance_js__WEBPACK_IMPORTED_MODULE_0__/* ["defa
                         'commissionRate': 20,
                         'rateLimit/order': 1,
                         'apiTradingStatus': 1,
+                        'symbolAdlRisk': 1,
                         'multiAssetsMargin': 30,
                         // broker endpoints
                         'apiReferral/ifNewUser': 1,
