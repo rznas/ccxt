@@ -148,6 +148,7 @@ from ccxt.async_support.mexc import mexc                                        
 from ccxt.async_support.modetrade import modetrade                              # noqa: F401
 from ccxt.async_support.myokx import myokx                                      # noqa: F401
 from ccxt.async_support.ndax import ndax                                        # noqa: F401
+from ccxt.async_support.nobitex import nobitex                                  # noqa: F401
 from ccxt.async_support.novadax import novadax                                  # noqa: F401
 from ccxt.async_support.oceanex import oceanex                                  # noqa: F401
 from ccxt.async_support.okx import okx                                          # noqa: F401
@@ -258,6 +259,7 @@ exchanges = [
     'modetrade',
     'myokx',
     'ndax',
+    'nobitex',
     'novadax',
     'oceanex',
     'okx',
